@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OMDB App</string>
+    <string name="search">Search</string>
+    <string name="search_placeholder">Search</string>
+    <string name="no_result">No result</string>
+
+    <string name="release_date">Release Date: %s</string>
+    <string name="rated">Rated: %s</string>
+    <string name="runtime">Runtime: %s</string>
+    <string name="genre">Genre: %s</string>
+    <string name="director">Director: %s</string>
+    <string name="writer">Writer: %s</string>
+    <string name="actors">Actors: %s</string>
+    <string name="plot">Plot: %s</string>
+    <string name="language">Language: %s</string>
+    <string name="country">Country: %s</string>
+    <string name="awards">Awards: %s</string>
+
+    <!-- Error Message -->
+    <string name="business_exception">An error occurred while processing your request</string>
+    <string name="bitmap_exception">No poster found</string>
+</resources>
